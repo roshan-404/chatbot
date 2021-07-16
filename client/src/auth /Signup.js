@@ -9,9 +9,6 @@ function SignIn() {
       auth.signInWithPopup(provider);
     }
     
-    gtag("event", "login", {
-        method: "Google"
-    });
     return (
       <div className="container">
         <button className="btn" onClick={signInWithGoogle}>Sign in with Google</button>

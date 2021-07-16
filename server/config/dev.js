@@ -1,0 +1,10 @@
+module.exports = {
+    googleProjectID: 'chat-bot-assignment',
+    dialogFlowSessionID: 'bot-session',
+    dialogFlowSessionLanguageCode: 'en-US',
+    googleClientEmail: 'chat-bot-assignment@chat-bot-assignment.iam.gserviceaccount.com',
+    googlePrivateKey: '-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhzto9kTjvpBVz\ntuP7SUPwsuPpGuLEttjXxsJMS+wLIIkXHlRfceJKhBgPlAPJ/1gxpfFy3aC/cnam\nEjqBdc0lZ3Dqf3FvjTT8YI/UKREQtRyhcg16e5LGNfNiUnXMTWxDbLbnqeFv8Zba\nXTT8SMeFNOL+Hu8k8mq7CZWwMa7dSWtWntWMNBjqv1TFUjn2Z3qKqlj/+5QDHFTs\n06n3JX2ba9HZU5HfZ5VK+yLIyDlzHJlBjiC848D7UcW+JS11OQoNM7g36CYjrf9j\nte9sE0mdda2w8I/caWLepAmce6eYiV6Ld9PzhAXuEj+f8jq2EoqUFasp7Oiz1ZEk\nY7HpasrnAgMBAAECggEAI2cN+mchWRkNr/W1qrki6MLzTqHDefn851+nKNUibeAs\n/i3oJoqxYuNw7khTi8D379jHkS3EPR/SEFl9SLzSbBHatzlB7K5j50mwYyAJJ+ht\nU7aQ/GoRafgdb4XkKCLfXXbW+l09FhL3hsbkPsWeWnkfOZ5Z+h3zs91d1aEEfHbx\n1J/O2aJCMlUUh0jSA2AZlZmeeK9zOFNMEWt7rk2P/imzkF92joRMjYLnukBOiMEY\nHO9vLJaUEIaCCmFWUf+DbPw/ELFRYuIjYG0PgJ3JvwHV3u6NuW1B6sH0UHN2eZg+\nGTn/8DVO8NH28xfjmUIVN5Ur8HaSyjQweyB80uXusQKBgQD+je6p5Rxzu8JradFX\nX8f8SCjYa6AAK00Pae8lXeHimN379TGHR1mT909JsGNRfxPa8dEan1gLGWo0y0PB\nxuGs+fIbrF3QcQfYxBkQLCxJddvqtGi8Otdo2X12fRQeHyKHHL4yE+XMnUOC1rM0\nyF4f6R3rNjnPsADrIrxSb9/MnwKBgQDjFyEMP74uJo9Qi64ZH0DRW7bxXIaIdmeX\nUFOiud8d2Ds5hhQqYsP038frzWyvUf9N0frCmHtTPfNcmv8aBtfJ/ZBKk6cvJkpo\nbzeetAxQYrWFFDBouNdUvBQiy+U79nTTjxyqKjtbq4ZdlcaxMIJmlxN3jvslJ286\nXdCIkxyUuQKBgQDR7Pz48XBAZYSVjqPMubm0bVH6AO/nk84uOv+0wjLJ66WN5wyc\ncpQGObsSmzuc9v7J3gjDOsuiA6iZt1O+l6R/QXWPqtuHTd/ZvQaqVrODNYZSjcue\nB6yj1FDqiYYwvR59bI/RvqUR1FPbr/IEQoWVLWu2EXcltxFa2L+UAJ0BIwKBgCIY\npu2f5H4pa/s7/bfn6WOF0cILkmeK36LofKZCIi3o+Xt5li2HBsUNlIbjIR5xwVN9\n45i0LFAjTRbqbsMJo/zABZos8T0zEpj7me5KOk8XgwmoLlyK5Enks2FGG/UU3BWn\ntzYVgTQSXOpQQrT4A5xDsriQz0SU1y58R4M6E2CBAoGASRhd7+fCdAKzAEn+nr8m\nIIoUxCrktDcBO/uCzFcoHVNOV7r/lQ0rSalQn2NEV1AdPN3+gZsUmjUbdP2FDJDv\nNwrz4tukvwGz2TKfCyvv0V68cgwBhbkirnK8bByAm5LExFwXrIVsy5CN0ySmfkL9\nO0fj6SJjYLYXbek25R6yTtE=\n-----END PRIVATE KEY-----\n',
+    mongoURI: 'mongodb+srv://chatbotr:rZRGnZo1M9diCRLM@cluster0.xxako.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+}
+
+// rZRGnZo1M9diCRLM
